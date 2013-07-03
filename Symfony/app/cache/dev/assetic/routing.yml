@@ -1,5 +1,0 @@
-_assetic:
-    resource: .
-    type: assetic
-_app:
-    resource: /var/www/elliotwright.co/src/Symfony/app/config/routing_dev.yml
